@@ -68,3 +68,7 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.bigData_index {
+  width: 1000px;
+  height: 1000px;
+}
